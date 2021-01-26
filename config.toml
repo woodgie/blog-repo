@@ -1,0 +1,4 @@
+baseURL = "https://blog.woodgie.net/"
+languageCode = "en-us"
+title = "I'm just this geek, you know?"
+theme = "ananke"
