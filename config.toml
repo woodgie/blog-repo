@@ -24,7 +24,7 @@ paginate = 5
   fullWidthTheme = false
 
   # center theme with default width
-  centerTheme = false
+  centerTheme = true
 
   # set a custom favicon (default is a `themeColor` square)
   # favicon = "favicon.ico"
@@ -49,7 +49,7 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "This used to just say Terminal"
+    title = "I'm text most people ignore"
     subtitle = "--A simple, retro theme for Hugo--"
     owner = "William Hunter"
     keywords = ""
