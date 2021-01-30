@@ -43,15 +43,15 @@ paginate = 5
   # set Twitter handles for Twitter cards
   # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
   # do not include @
-  creator = ""
-  site = ""
+  creator = "_Woodgie"
+  site = "_Woodgie"
 
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
-    subtitle = "A simple, retro theme for Hugo"
-    owner = ""
+    title = "This used to just say Terminal"
+    subtitle = "--A simple, retro theme for Hugo--"
+    owner = "William Hunter"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
