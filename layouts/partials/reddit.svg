@@ -1,0 +1,24 @@
+<!-- Created with Vectornator for iOS (http://vectornator.io/) --><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" version="1.1" viewBox="60 80 600 700" class="{{ with .class }}{{ . }} {{ end }} icon" width="24" height="24">
+<metadata>
+<vectornator:setting key="DynamicGuides" value="1"/>
+<vectornator:setting key="Units" value="Points"/>
+<vectornator:setting key="GuidesVisible" value="1"/>
+<vectornator:setting key="RulersVisible" value="1"/>
+<vectornator:setting key="SnapToGuides" value="1"/>
+<vectornator:setting key="GridSpacing" value="36"/>
+</metadata>
+<defs>
+<path d="M0+718.5L595+718.5L595+123.5L0+123.5L0+718.5Z" id="Mask"/>
+</defs>
+<g id="Untitled" vectornator:layerName="Untitled">
+<g opacity="1" vectornator:mask="#Mask">
+<clipPath id="ClipPath">
+<use xlink:href="#Mask" fill="none" overflow="visible"/>
+</clipPath>
+<g clip-path="url(#ClipPath)">
+<path d="M561.88+421C561.88+389.051+535.983+363.155+504.035+363.155C488.439+363.155+474.313+369.351+463.914+379.383C424.37+350.85+369.89+332.424+309.214+330.304L335.561+206.326L421.655+224.631C422.706+246.516+440.63+263.985+462.78+263.985C485.599+263.985+504.095+245.489+504.095+222.67C504.095+199.846+485.599+181.345+462.78+181.345C446.543+181.345+432.639+190.795+425.885+204.411L329.751+183.976C327.078+183.395+324.28+183.92+321.983+185.412C319.678+186.909+318.074+189.252+317.502+191.93L288.078+330.267C226.504+331.978+171.151+350.427+131.105+379.28C120.711+369.309+106.635+363.155+91.0954+363.155C59.1514+363.155+33.2503+389.051+33.2503+421C33.2503+444.507+47.2932+464.695+67.4256+473.746C66.5377+479.496+66.0497+485.33+66.0497+491.242C66.0497+580.241+169.645+652.385+297.435+652.385C425.23+652.385+528.825+580.241+528.825+491.242C528.825+485.372+528.346+479.575+527.468+473.862C547.725+464.867+561.88+444.6+561.88+421" opacity="1" fill="#ffffff"/>
+</g>
+</g>
+</g>
+</svg>
